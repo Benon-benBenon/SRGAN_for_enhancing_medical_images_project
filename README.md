@@ -17,5 +17,5 @@ applications in medical imaging operations. Moreover, the implementation of the 
 method using machine learning and deep neural network technology has been discussed, including
 its limitations in the field of healthcare.
 
-Data for this project **[Data(https://drive.google.com/file/d/1HS6dIclJpob4WNNndftxYgzJ9fAVC2u4/view?usp=sharing)]**
+Data for this project **[Data](https://drive.google.com/file/d/1HS6dIclJpob4WNNndftxYgzJ9fAVC2u4/view?usp=sharing)**
 
